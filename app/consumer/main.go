@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/mirzaakhena/golang-nsq/messagebroker"
+	"github.com/guhkun13/simple-go-nsq/messagebroker"
 )
 
 func main() {
